@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Test1
-date:   2019-07-24 14:01:35 +0300
+date:   2020-07-24 14:01:35 +0300
 image:  '/assets/img/06.jpg'
 tags:   travel
 ---
